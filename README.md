@@ -1,12 +1,41 @@
-# React + Vite
+# GSAP Animation Mastery ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Advancing GSAP animation skills through continuous exploration of motion techniques, dynamic transitions, and precision-tuned effects.  
+A journey of refining creativity, improving technical depth, and achieving smooth, professional-grade animations with GSAP.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 What’s Inside
 
-## Expanding the ESLint configuration
+- Smooth motion experiments with GSAP
+- Creative transitions and timing functions
+- Performance-oriented animation techniques
+- Exploration of advanced GSAP features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Goals
+
+- Strengthen animation skills with GSAP
+- Build a deeper understanding of motion design
+- Create animations that are both elegant and efficient
+
+---
+
+## 🛠️ Tech Stack
+
+- **Vite** ⚡
+- **React** ⚛️
+- **JavaScript (ES6+)**
+- **Tailwind CSS** 🎨
+- **GSAP (GreenSock Animation Platform)**
+
+---
+
+## 📌 Highlights
+
+- Focus on professional-grade motion design
+- Hands-on exploration of animation timing and easing
+- Sharpening precision, creativity, and fluidity in animations
+
+---
