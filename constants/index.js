@@ -21,13 +21,13 @@ const cocktailLists = [
   {
     name: "Nami Swaan",
     country: "JP",
-    detail: "Battle",
+    detail: "250 ml",
     price: "$100",
   },
   {
-    name: "Caten Malbee",
-    country: "AU",
-    detail: "Battle",
+    name: "Limbu Sarbat",
+    country: "In",
+    detail: "250 ml",
     price: "$49",
   },
   {
@@ -48,13 +48,13 @@ const mockTailLists = [
   {
     name: "Robin chwaan",
     country: "RU",
-    detail: "Battle",
+    detail: "250 ml",
     price: "$100",
   },
   {
-    name: "Passionfruit Mint",
-    country: "US",
-    detail: "Battle",
+    name: "Kokam Sarbat",
+    country: "IN",
+    detail: "250 ml",
     price: "$49",
   },
   {
